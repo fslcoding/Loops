@@ -105,7 +105,7 @@ Similarly to statement two, this is evaluated everytime the loop runs, however, 
 All together, the loop looks like this:
 
 ```
-for(int i = 0; i < 10; i++ ) 
+for( int i = 0; i < 10; i++ ) 
 { 
     Console.WriteLine(i);
 }

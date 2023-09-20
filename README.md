@@ -29,14 +29,18 @@ If the condition is met, then the code will stop looping.
     <summary>
         What will the code output?
     </summary>
+
     0 1 2 3 4
+
 </details>
 
 <details>
     <summary>
         What would the output be if the condition was changed to ( i <= 5 )?
     </summary>
+
     0 1 2 3 4 5
+
 </details>
 
 
@@ -115,12 +119,11 @@ for( int i = 0; i < 10; i++ )
     <summary>
         What will the result be?
     </summary>
-   <p> 
 
     0 1 2 3 4 5 6 7 8 9
 
     Notice how the number 10 is NOT printed!
-   </p>
+
 </details>
 
 Now look at the following loop: 
@@ -135,7 +138,9 @@ for( int i = 10; i > 0; i-- ) {
     <summary>
         What would the result be if you used the above loop instead?
     </summary>
+
     10 9 8 7 6 5 4 3 2 1
+
 </details>
 
 

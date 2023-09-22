@@ -55,7 +55,7 @@ it is **_Exit Controlled_**
 
 This means that the condition is evaluated _after_ the code is run. 
 
-```
+```csharp
 int i = 0;
 
 do {
@@ -78,7 +78,7 @@ It is also one of the hardest loops to remember.
 
 It is composed of **three** statements.
 
-```
+```csharp
 int i = 0;
 ```
 
@@ -87,7 +87,7 @@ This Creates a _integer_ variable, which can only be used inside the loop. It st
 The first time the loop _iterates_, this value will be 0,
 The next time it will be 1, etc.
 
-```
+```csharp
 i < 10
 ```
 
@@ -95,7 +95,7 @@ This is responsible for when the loop stops.
 
 Every time the code loops, it checks if the statement is true, if it is, then the loops stops. If not, it keeps going.
 
-```
+```csharp
 i++
 ```
 
@@ -108,7 +108,7 @@ Similarly to statement two, this is evaluated everytime the loop runs, however, 
 
 All together, the loop looks like this:
 
-```
+```csharp
 for( int i = 0; i < 10; i++ ) 
 { 
     Console.WriteLine(i);
@@ -128,7 +128,7 @@ for( int i = 0; i < 10; i++ )
 
 Now look at the following loop: 
 
-```
+```csharp
 for( int i = 10; i > 0; i-- ) {
     Console.WriteLine(i);
 }
@@ -153,7 +153,6 @@ for( int i = 10; i > 0; i-- ) {
 
 **_Level One_**
 + Make all the loops run backwards
-
 
 **_Level Two_**
 + Print out the numbers 1 to 100, using a nested loop

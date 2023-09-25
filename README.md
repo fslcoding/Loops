@@ -145,7 +145,7 @@ for( int i = 10; i > 0; i-- ) {
 
 
 ## Useful Links
-[W3 Schools While Loop](https://www.w3schools.com/cs/cs_while_loop.php)
+[W3 Schools While Loop](https://www.w3schools.com/cs/cs_while_loop.php) <br>
 [W3 Schools For Loop](https://www.w3schools.com/cs/cs_for_loop.php)
 
 

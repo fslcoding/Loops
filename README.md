@@ -145,7 +145,7 @@ for( int i = 10; i > 0; i-- ) {
 
 <br>
 
-_For revision material on `Nested For Loops`, click [here](https://github.com/fslcoding/Loops/blob/main/RevisionMaterial/Docs/NestedFor.cs)_
+_For revision material on `Nested For Loops`, click [here](https://github.com/fslcoding/Loops/blob/main/RevisionMaterial/Docs/NestedFor.md)_
 
 
 ## Useful Links

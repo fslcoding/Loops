@@ -12,7 +12,7 @@ A While Loop is **_entry controlled_**
 
 This is what a while loop typically looks like:
 
-```
+```cs
 int i = 0;
 
 while(i < 5) {

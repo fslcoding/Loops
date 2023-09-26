@@ -143,6 +143,10 @@ for( int i = 10; i > 0; i-- ) {
 
 </details>
 
+<br>
+
+_For revision material on `Nested For Loops`, click [here](https://github.com/fslcoding/Loops/blob/main/RevisionMaterial/Docs/NestedFor.cs)_
+
 
 ## Useful Links
 [W3 Schools While Loop](https://www.w3schools.com/cs/cs_while_loop.php) <br>
